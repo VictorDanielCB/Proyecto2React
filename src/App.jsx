@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://apiuisilvictor.somee.com";
+const API = "https://apiuisilvictor.somee.com";
 
 const usuarioVacio = {
   idUsuario: 0,
